@@ -18,17 +18,18 @@ section h1{
 
 .card {
     width: 13rem;
-    background-color: rgba(255, 255, 255, 0.3); /* Semi-transparent white */
-    border-radius: 10px;
-    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.3); /* Soft shadow */
+    background-color: rgba(255, 255, 255, 0.4);
+    border-radius: 8px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.3);
     margin: 1rem;
     padding-bottom: 1em;
-    backdrop-filter: blur(5px); /* Glassmorphism effect */
+    backdrop-filter: blur(5px); 
 }
 
 .card-head{
     height: 10rem;
     overflow: hidden;
+    border-radius: 8px;
 }
 
 .card-body{
