@@ -39,6 +39,9 @@ section h1{
 .card-head img{
     width: 100%;
 }
+.spinner {
+    margin:auto;
+}
 @media (max-width: 768px) {
     .project-container {
         padding-right: 0;

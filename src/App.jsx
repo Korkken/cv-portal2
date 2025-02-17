@@ -16,10 +16,10 @@ function App() {
       <BrowserRouter basename='/cv-portal2'>
       <Navbar/>
       <Routes>
-        <Route exact path="/" element={<Home/>}/>
-        <Route exact path="/aboutme" element={<Aboutme/>}/> 
-        <Route exact path="/CV" element={<CV/>}/>
-        <Route exact path="/projects" element={<Projects/>}/>
+        <Route path="/" element={<Home/>}/>
+        <Route path="/aboutme" element={<Aboutme/>}/> 
+        <Route path="/CV" element={<CV/>}/>
+        <Route path="/projects" element={<Projects/>}/>
       </Routes>
     </BrowserRouter>
   </>
