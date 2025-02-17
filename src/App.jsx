@@ -13,7 +13,7 @@ function App() {
 
   return (
     <>
-      <BrowserRouter>
+      <BrowserRouter basename='/cv-portal2'>
       <Navbar/>
       <Routes>
         <Route path="/" element={<Home/>}/>
