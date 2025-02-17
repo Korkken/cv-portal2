@@ -1,0 +1,29 @@
+
+
+[
+    {
+        "Company": "Entit AB",
+        "Role": "Systemdeveloper",
+        "Date": "April 2021 - Jan 2023",
+        "Description": "Creating a 3d configurator on the web which enables downloading a balcony file which can be importet in a CAD program. Created with .NET and Javascript"
+    },
+    {
+        "Company": "Balco AB Uppdrag",
+        "Role": "Systemdeveloper",
+        "Date": "2021 - 2022",
+        "Description": "Creating a form for internal products with .NET"
+    },
+    {
+        "Company": "Balco AB Uppdrag",
+        "Role": "Systemdeveloper",
+        "Date": "2021 - 2022",
+        "Description": "Creating a form for suggestions from customers with React and .NET"
+    },
+    {
+        "Company": "Ping Pong AB",
+        "Role": "Systemdeveloper",
+        "Date": "Oktober 2019 - June 2020",
+        "Description": "Creating a Learning Management system with Vue.js and Kotlin"
+    }
+
+]
